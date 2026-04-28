@@ -4,3 +4,4 @@ vcs-github-IU-251.25410.159-IU.zip filter=lfs diff=lfs merge=lfs -text
 GitKrakenSetup.exe filter=lfs diff=lfs merge=lfs -text
 dependency-check-data.zip filter=lfs diff=lfs merge=lfs -text
 Devoxx_small.mp4 filter=lfs diff=lfs merge=lfs -text
+python-manager-26.1.msix filter=lfs diff=lfs merge=lfs -text
